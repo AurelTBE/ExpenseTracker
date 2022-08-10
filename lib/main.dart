@@ -77,7 +77,7 @@ class MyHomePage extends StatelessWidget {
                         Text(
                           tx.title,
                           style: TextStyle(
-                              fontSize: 22, fontWeight: FontWeight.bold),
+                              fontSize: 16, fontWeight: FontWeight.bold),
                         ),
                         Text(
                           tx.date.toString(),
